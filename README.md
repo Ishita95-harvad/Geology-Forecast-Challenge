@@ -1,6 +1,6 @@
 # Geology-Forecast-Challenge
 
-![Geological Gradient](relative/path/to/image.png)
+![Geological Gradient](kaggle_91327_logos_header.png)
 
 
 
